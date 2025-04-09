@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ori</h1>
 <h3 align="center">A software developer</h3>
 
-- 🚶‍♀️ I’m currently working on TourTrack, my final project – a tourism application designed for the Lower Galilee Regional Council as a social network for travelers. [TourTrack]([(https://github.com/orikatz99/Final-Project-TourTrack-app)])
+- 🚶‍♀️ I’m currently working on TourTrack, my final project – a tourism application designed for the Lower Galilee Regional Council as a social network for travelers. [TourTrack]([https://github.com/orikatz99/Final-Project-TourTrack-app])
 
 - 🌱 I’m currently learning **B.Sc. in Computer Science (third year)**
 
